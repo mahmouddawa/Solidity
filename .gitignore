@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/compile
+
 /deploy.js
 
 # production
